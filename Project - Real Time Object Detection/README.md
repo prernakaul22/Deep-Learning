@@ -12,7 +12,5 @@ Poster Presentation Event held at Georgetown University
 **Capture.png** - result of the python code (image clicked through laptop webcam)
 
 
-![Poster](https://github.com/prernakaul22/Deep-Learning/blob/master/Project%20-%20Real%20Time%20Object%20Detection/Object_Detection_Poster.pdf)
-
 
 ![Result](https://github.com/prernakaul22/Deep-Learning/blob/master/Project%20-%20Real%20Time%20Object%20Detection/capture1.png)
