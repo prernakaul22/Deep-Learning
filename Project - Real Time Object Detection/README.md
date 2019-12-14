@@ -8,3 +8,5 @@ Object_Detection_Poster.pdf - Poster of this project showcased at Deep Nural Net
 Poster Presentation Event held at Georgetown University
 
 RealTime_ObjDetection_paper.pdf - Project Research Paper
+
+Capture.png - result of the python code (image clicked through laptop webcam)
