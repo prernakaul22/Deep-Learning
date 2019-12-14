@@ -10,3 +10,5 @@ Poster Presentation Event held at Georgetown University
 RealTime_ObjDetection_paper.pdf - Project Research Paper
 
 Capture.png - result of the python code (image clicked through laptop webcam)
+
+![Result](https://github.com/prernakaul22/Deep-Learning/blob/master/Project%20-%20Real%20Time%20Object%20Detection/capture1.png)
