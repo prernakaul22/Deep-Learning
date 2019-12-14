@@ -13,4 +13,4 @@ Poster Presentation Event held at Georgetown University
 
 
 
-![Result](https://github.com/prernakaul22/Deep-Learning/blob/master/Project%20-%20Real%20Time%20Object%20Detection/capture1.png)
+![Result](https://github.com/prernakaul22/Deep-Learning/blob/master/Project%20-%20Real%20Time%20Object%20Detection/Capture.png)
